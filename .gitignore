@@ -1,4 +1,4 @@
-.terragrunt-cache
 .idea
+.terragrunt-cache
 
-modules/.terraform/*
+modules/moduleA/.terraform
